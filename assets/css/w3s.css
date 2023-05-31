@@ -1,0 +1,1027 @@
+
+.flex-container
+{
+    display: flex;
+    width: 100%;
+}
+.bg_blk
+{
+    background-color: black;
+}
+.li
+{
+    width: 100%;
+}
+.hid
+{
+    display: block;
+}
+.bgm
+{
+    background-color: #1d2a35;
+}
+.icn
+{
+    margin-left: 1.5%;
+}
+.btn1
+{
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+}
+.fst_mar
+{
+  margin-left: 90px;  
+}
+/* ----------------------------------------------------------------------------------------------------------------------------------- */
+.bgm1
+{
+    background-color: #0d1721;
+}
+.ltc
+{
+    color: white;
+    font-size: 85px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 6%;
+}
+.wtw
+{
+    color: #ffc0c7;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 1%;
+}
+.brk
+{
+    display: none;
+}
+.srch
+{
+    margin-left: 28%;
+    margin-top: 2%;
+}
+.serch
+{
+    width: 60%;
+    height: 60px;
+    font-size: 20px;
+    padding-left: 3%;
+    border-width: 0px;
+    border-color: #0d1721;
+    outline: none;
+    background-image: url('../images/w3sh.png');
+    background-size: 26%;
+    background-repeat: no-repeat;
+    background-position: 480px 50%;
+}
+.nsw
+{
+    margin-left: 42%;
+    margin-top: 2%;
+    padding-bottom: 10%;
+}
+.nsw1
+{
+    color: white;
+}
+.nsw1:hover
+{
+    color: #04a66b;
+}
+/* ------------------------------------------------------------------------------------------------------------------------------------- */
+.back1
+{
+    background-color: #d9eee1;
+}
+.ht_mar
+{
+    margin: 15% 0% 0% 43%;
+}
+.ht
+{
+    color: black;
+    font-size: 120px;
+}
+.tlf
+{
+    margin: 4% 0px 0px 40%;
+}
+.btn_man
+{
+    margin: 4% 0% 0% 45%; 
+}
+.htbtn
+{
+    width: 70%;
+    height: 60px;
+    font-size: 23px;
+}
+.tab_mar
+{
+    margin: 13% 0% 0% 20%;
+    background-color: #38444d;
+    border-radius: 10px;
+}
+.he
+{
+    font-size: 32px;
+    font-weight: 500;
+    color: white;
+    height: 60px;
+    margin-top: 5%;
+}
+.cod
+{
+    background-color: #15202b;
+    font-size: 20px;
+}
+.cod_brkt
+{
+    color: #79ccbb;
+}
+.cod_tag
+{
+    color: #ff9999;
+}
+.cod_tag2
+{
+    color: #c5a5b6;
+}
+.cod_tag3
+{
+    color: #80b6ff;
+}
+.undr_cod
+{
+    color: white;
+}
+/* ---------------------------------------------------------------------------------------------------------------------------------- */
+.back2
+{
+    background-color: #fff4a3;
+}
+.cs_mar
+{
+    margin: 15% 0% 0% 52%;
+}
+/* ----------------------------------------------------------------------------------------------------------------------------------- */
+.back3
+{
+    background-color: black;
+}
+.js_mar
+{
+    margin: 15% 0% 0% 43%;
+}
+.tlfp
+{
+    margin: 4% 0px 0px 39%;
+    font-size: 23px;
+}
+.jsbtn_man
+{
+    margin: 4% 0% 0% 48%; 
+}
+/* --------------------------------------------------------------------------------------------------------------------------------- */
+.back4
+{
+    background-color: #f3ecea;
+}
+.py_mar
+{
+    margin: 15% 0% 0% 48%;
+}
+.pyt
+{
+    color: black;
+    font-size: 90px;
+}
+.app
+{
+    margin: 4% 0px 0px 44%;
+}
+.pybtn_man
+{
+    margin: 4% 0% 0% 50%; 
+}
+/* ----------------------------------------------------------------------------------------------------------------------------------- */
+.back5
+{
+    background-color: #96d4d4;
+}
+.sql_mar
+{
+    margin: 15% 0% 0% 57%;
+}
+.alf
+{
+    margin: 4% 0px 0px 42%;
+}
+.sqlbtn_man
+{
+    margin: 4% 0% 0% 50%;
+}
+/* ----------------------------------------------------------------------------------------------------------------------------------- */
+.back6
+{
+    background-color: #ffc0c7;
+    margin: 5% 0% 0% 8%;
+    width: 40%;
+    border-radius: 5px;
+}
+.php
+{
+    color: black;
+    text-align: center;
+    margin-top: 4%;  
+}
+.aws
+{
+    font-size: 20px;
+}
+.lp
+{
+    margin-left: 33%;
+    width: 35%;
+    height: 60px;
+    font-size: 20px;
+}
+.back7
+{
+    background-color: #fff4a3;
+    margin: 5% 0% 0% 8%;
+    width: 40%;
+    border-radius: 5px;
+}
+.back8
+{
+    background-color: #f3ecea;
+    margin: 5% 0% 0% 8%;
+    width: 40%;
+    border-radius: 5px;
+}
+.back9
+{
+    background-color: #d9eee1;
+    margin: 5% 0% 0% 8%;
+    width: 40%;
+    border-radius: 5px;
+}
+.back10
+{
+    background-color: #96d4d4;
+    margin: 5% 0% 0% 8%;
+    width: 40%;
+    border-radius: 5px;
+}
+.back11
+{
+    background-color: #e7e9eb;
+    margin: 5% 0% 0% 8%;
+    width: 40%;
+    border-radius: 5px;
+}
+.c
+{
+    background-color: #ffc0c7;
+    margin: 5% 0% 0% 8%;
+    width: 40%;
+    border-radius: 5px;
+    height: 120px;
+    cursor: pointer;
+}
+.cc
+{
+    background-color: #fff4a3;
+    margin: 5% 0% 0% 8%;
+    width: 40%;
+    border-radius: 5px;
+    height: 120px;
+    cursor: pointer;
+}
+.ccc
+{
+    background-color: #96d4d4;
+    margin: 5% 0% 0% 8%;
+    width: 40%;
+    border-radius: 5px;
+    height: 120px;
+    cursor: pointer;
+}
+.cccc
+{
+    background-color: #e7e9eb;
+    margin: 5% 0% 0% 8%;
+    width: 40%;
+    border-radius: 5px;
+    height: 120px;
+    cursor: pointer;
+}
+.c1
+{
+    background-color: #ffc0c7;
+    margin: 5% 0% 0% 8%;
+    width: 15%;
+    border-radius: 5px;
+    height: 100px;
+    cursor: pointer;
+}
+.c2
+{
+    background-color: #fff4a3;
+    margin: 5% 0% 0% 8%;
+    width: 15%;
+    border-radius: 5px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.c3
+{
+    background-color: #f3ecea;
+    margin: 5% 0% 0% 8%;
+    width: 15%;
+    border-radius: 5px;
+    height: 100px;
+    cursor: pointer;
+}
+.c4
+{
+    background-color: #d9eee1;
+    margin: 5% 0% 0% 8%;
+    width: 15%;
+    border-radius: 5px;
+    height: 100px;
+    cursor: pointer;
+}
+.c5
+{
+    background-color: #96d4d4;
+    margin: 5% 0% 0% 8%;
+    width: 15%;
+    border-radius: 5px;
+    height: 100px;
+    cursor: pointer;
+}
+.cn
+{
+    color: black;
+    text-align: center;
+    margin-top: 12%;
+
+}
+.cn1
+{
+    color: black;
+    text-align: center;
+    margin-top: 5%;
+}
+.cn2
+{
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+}
+.cn3
+{
+    color: black;
+    text-align: center;
+    margin-top: 10%;
+}
+.mar
+{
+    margin-left: 10%;
+}
+.woo
+{
+    text-align: center;
+}
+.ce
+{
+    margin-left: 16%;
+    
+}
+.img
+{
+    width: 80%;
+    border-radius: 5px;
+}
+.img1
+{
+    width: 80%;
+    border-radius: 5px;
+    display: block;
+}
+.tfe
+{
+    width: 25%;
+    text-align: left;
+}
+.tbe
+{
+    width: 30%;
+    text-align: left;
+}
+/* ---------------------------------------------------------------------------------------------------------------------------------- */
+.back12
+{
+    background-color: #272a35;
+}
+.gsn
+{
+    margin-left: 41%;
+}
+.gsn_btn
+{
+    width: 30%;
+    height: 60px;
+}
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+.back13
+{
+    background-color: #dbeee1;
+}
+.ml
+{
+    color: black;
+    font-size: 80px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 6%;
+}
+/* -------------------------------------------------------------------------------------------------------------------------------- */
+.pro
+{
+    color: white;
+    font-size: 65px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 6%;
+}
+.div_bw
+{
+    margin: 2% 0% 0% 37%;
+}
+.ankr
+{
+    color: white;
+    cursor: pointer;
+}
+.ankr:hover
+{
+    color: rgb(33, 132, 33);
+}
+/* ----------------------------------------------------------------------------------------------------------------------------------- */
+.cp
+{
+    margin: 2% 0% 0% 42%;
+}
+.cp_img
+{
+    cursor: pointer;
+    width: 25%;
+}
+.cp_img:hover
+{
+    opacity: 80%;
+}
+/* -------------------------------------------------------------------------------------------------------------------------------- */
+.back14
+{
+    background-color: #96d4d4;
+}
+.cg
+{
+    color: black;
+    font-size: 100px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 6%;
+    font-family: chiller;
+}
+.htl
+{
+    font-family: chiller;
+    text-align: center;
+    color: black;
+}
+/* ---------------------------------------------------------------------------------------------------------------------------------- */
+.ex
+{
+    background-color: #04a66b;
+    margin: 5% 0% 0% 8%;
+    width: 40%;
+    border-radius: 5px;
+    height: 200px;
+    cursor: pointer;
+}
+.qz
+{
+    background-color: #f7ed9f;
+    margin: 5% 0% 0% 8%;
+    width: 40%;
+    border-radius: 5px;
+    height: 200px;
+    cursor: pointer;
+}
+.pd
+{
+    margin-top: -2%;
+}
+/* ----------------------------------------------------------------------------------------------------------------------------------- */
+.back15
+{
+    background-color: #38444d;
+}
+.btn_bt
+{
+    margin-left: 25%;
+    width: 50%;
+    height: 60px;
+}
+/* ----------------------------------------------------------------------------------------------------------------------------------- */
+.kyc
+{
+    color: #ffc0c7;
+    font-size: 65px;
+    font-weight: 500;
+    margin-left: 8%;
+}
+.gcb
+{
+    color: #ffc0c7;
+    font-size: 50px;
+    font-weight: 500;
+    margin-left: 8%;
+    margin-top: 10%;
+}
+.gs_btn
+{
+    margin-left: 8%;
+    width: 30%;
+    height: 60px;
+    font-size: 20px;
+    padding-top: 1%;
+}
+.ic_img
+{
+    width: 70%;
+    position: relative;
+    z-index: 1;
+    margin-bottom: -120%;
+    margin-left: 30%;
+}
+/* ----------------------------------------------------------------------------------------------------------------------------------- */
+.back16
+{
+    background-color: #1d2a35;
+}
+.lht_btn
+{
+    margin-left: 30%;
+    width: 40%;
+    height: 70px;
+    font-size: 20px;
+    padding-top: 1%;
+}
+/* ----------------------------------------------------------------------------------------------------------------------------------- */
+.f_btn1
+{
+    background-color: #1d2a35;
+    margin: 4% 0% 0% 2%;
+    color: white;
+    border-width: 0px;
+    height: 50px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+}
+.f_btn
+{
+    background-color: #1d2a35;
+    margin: 4% 0% 0% 0.5%;
+    color: white;
+    border-width: 0px;
+    height: 50px;
+    width: 8%;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+}
+.faa
+{
+    float: right;
+    color: white;
+    margin: 4% 2% 0% 0%;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: 500;
+}
+.faa:hover
+{
+    color: #04a66b;
+}
+.fr
+{
+    float: right;
+    color: white;
+    margin: 4% 2% 0% 0%;
+}
+.md
+{
+    width: 10%;
+}
+.iocn
+{
+    float: right;
+    margin: 0% 5% 0% 0%;
+}
+.ll
+{
+    text-align: center;
+}
+.ll_mar
+{
+    text-align: center;
+}
+.img_tu
+{
+    margin-left: 50%;
+    cursor: pointer;
+}
+@media screen and (max-width: 600px)
+{
+    .li
+    {
+        width: 80%;
+        height: 40px;
+    }
+    .hid
+    {
+        display: none;
+    }
+    .icn
+    {
+        margin-left: 2.8%;
+    }
+    .ltc
+    {
+        font-size: 45px;
+        padding-top: 20%;
+    }
+    .wtw
+    {
+        font-size: 20px;
+        padding-top: 5%;
+    }
+    .brk
+    {
+        display: block;
+    }
+    .serch
+    {
+        width: 330px;
+        height: 40px;
+        margin-left: -30%;
+        margin-top: 10%;
+        background-size: 22% 98%;
+        background-position: 100% 50%;
+    }
+    ::placeholder
+    {
+
+        font-size: 15px;
+        font-weight: bold;
+        padding-left: 2%;
+    }
+    .nsw
+    {
+        margin-left: 15%;
+        margin-top: 5%;
+    }
+    .ht
+    {
+        font-size: 60px;
+        font-weight: 400;
+    }
+    .ht_mar
+    {
+        margin: 15% 0% 0% 27%;
+    }
+    .tlf
+    {
+        margin: 2% 0px 0px 1%;
+    }
+    .btn_man
+    {
+        margin: 6% 0% 0% 10%;
+    }
+    .htbtn
+    {
+        width: 90%;
+        height: 60px;
+        font-size: 23px;
+    }
+    .cs_mar
+    {
+        margin: 15% 0% 0% 35%;
+    }
+    .js_mar
+    {
+        margin: 15% 0% 0% 22%;
+    }
+    .tlfp
+    {
+        margin: 4% 0px 0px 0%;
+        font-size: 19px;
+        font-weight: 500;
+    }
+    .jsbtn_man
+    {
+        margin: 6% 0% 0% 10%; 
+    }
+    .pyt
+    {
+        color: black;
+        font-size: 60px;
+    }
+    .py_mar
+    {
+        margin: 15% 0% 0% 24%;
+    }
+    .pybtn_man
+    {
+        margin: 4% 0% 0% 10%; 
+    }
+    .app
+    {
+        margin: 4% 0px 0px 5%;
+        font-weight: bold;
+    }
+    .sql_mar
+    {
+        margin: 15% 0% 0% 34%;
+    }
+    .alf
+    {
+        margin: 4% 0px 0px 1.5%;
+    }
+    .php
+    {
+        color: black;
+        text-align: center;
+        margin-top: 6%;  
+        font-size: 40px;
+    }
+    .aws
+    {
+        font-size: 20px;
+    }
+    .lp
+    {
+        margin-left: 18%;
+        width: 65%;
+        height: 60px;
+        font-size: 20px;
+    }
+    .lb
+    {
+        margin-left: 25%;
+        width: 50%;
+    }
+    .back6
+    {
+        width: 90%;
+        margin: 5% 0% 0% 5%;
+    }
+    .back7
+    {
+        width: 90%;
+        margin: 5% 0% 0% 5%;
+    }
+    .back8
+    {
+        width: 90%;
+        margin: 5% 0% 0% 5%;
+    }
+    .back9
+    {
+        width: 90%;
+        margin: 5% 0% 0% 5%;
+    }
+    .back10
+    {
+        width: 90%;
+        margin: 5% 0% 0% 5%;
+    }
+    .back11
+    {
+        width: 90%;
+        margin: 5% 0% 0% 5%;
+    }
+    .c1
+    {
+        width: 90%;
+        margin: 5% 0% 0% 5%;
+        height: 130px;
+    }
+    .c2
+    {
+        width: 90%;
+        margin: 5% 0% 0% 5%;
+        height: 130px;
+    }
+    .c3
+    {
+        width: 90%;
+        margin: 5% 0% 0% 5%;
+        height: 130px;
+    }
+    .c4
+    {
+        width: 90%;
+        margin: 5% 0% 0% 5%;
+        height: 130px;
+    }
+    .c5
+    {
+        width: 90%;
+        margin: 5% 0% 0% 5%;
+        height: 130px;
+    }
+    .c
+    {
+        width: 90%;
+        margin: 5% 0% 0% 5%;
+        height: 130px;
+    }
+    .cc
+    {
+        width: 90%;
+        margin: 5% 0% 0% 5%;
+        height: 130px;
+    }
+    .ccc
+    {
+        width: 90%;
+        margin: 5% 0% 0% 5%;
+        height: 130px;
+    }
+    .cccc
+    {
+        width: 90%;
+        margin: 5% 0% 0% 5%;
+        height: 130px;
+    }
+    .cn
+    {
+        margin-top: 15%;
+    }
+    .cn1
+    {
+        margin-top: 15%;
+    }
+    .woo
+    {
+        margin-left: -2%;
+    }
+    .ce
+    {
+        margin-left: 1%;
+ 
+    }
+    .img
+    {
+        width: 100%;
+    }
+    .tfe
+    {
+        width: 100%;
+    }
+    .tbe
+    {
+        width: 100%;
+    }
+    .gsn
+    {
+        margin-left: 16%;
+    }
+    .gsn_btn
+    {
+        width:80%;
+        height: 50px;
+    }
+    .ml
+    {
+        color: black;
+        font-size: 50px;
+        text-align: center;
+        font-weight: bold;
+        padding-top: 6%;
+    }
+    .div_bw
+    {
+        margin: 2% 0% 0% 2%;
+    }
+    .pro
+    {
+        font-size: 35px;
+    }
+    .cp
+    {
+        margin: 2% 0% 0% 12%;
+    }
+    .cp_img
+    {
+        width: 80%;
+    }
+    .cn2
+    {
+        margin-top: 25%;
+    }
+    .cn3
+    {
+        margin-top: 25%;
+    }
+    .ex
+    {
+        width: 70%;
+        margin: 5% 0% 0% 15%;
+        height: 170px;
+    }
+    .qz
+    {
+        width: 70%;
+        margin: 5% 0% 0% 15%;
+        height: 170px;
+    }
+    .btn_bt
+    {
+        margin-left: 5%;
+        width: 90%;
+    }
+    .ic_img
+    {
+        width: 60%;
+        position: relative;
+        z-index: 1;
+        margin-top: -455%;
+        margin-left: 42%;
+    }
+    .kyc
+    {
+        font-size: 45px;
+        margin-left: 8%;
+    }
+    .gcb
+    {
+        font-size: 40px;
+        margin-left: 8%;
+    }
+    .gs_btn
+    {
+        width: 50%;
+        padding-top: 2%;
+    }
+    .lht_btn
+    {
+        margin-left: 5%;
+        width: 90%;
+        padding-top: 4%;
+    }
+    .md
+    {
+        width: 30%;
+        font-size: 15px;
+        font-weight: normal;
+    }
+    .md2
+    {
+        width: 70%;
+        font-size: 15px;
+        margin-left: 15%;
+        font-weight: normal;
+    }
+    .faa
+    {
+        margin: 4% 15% 0% 0%;
+    }
+    .fr
+    {
+        margin: 4% 15% 0% 0%;
+    }
+    .img_tu
+    {
+        margin-left: 40%;
+    }
+    .ll
+    {
+        text-align: center;
+    }
+}
